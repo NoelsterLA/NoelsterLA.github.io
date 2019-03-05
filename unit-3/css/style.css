@@ -1,0 +1,13 @@
+body {
+  	text-align: center;
+  	margin-top: 100px; 
+	background: url("images/mary-poppins-blog-1.jpg");
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
