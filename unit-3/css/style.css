@@ -1,18 +1,12 @@
 body {
   	text-align: center;
-<<<<<<< HEAD
   	margin-top: 200px; 
 	background: url(../images/mary-poppins-blog-1.jpg);
-=======
-  	margin-top: 100px; 
-	background: url("images/mary-poppins-blog-1.jpg");
->>>>>>> 1fe855bf351cf3c57e3d1b00abc46ac267601968
   	background-size: cover;
   	color: #fff;
   	font-family: Helvetica;
 }
 
-<<<<<<< HEAD
 h1, h3 {
 	font-weight: normal; 
 }
@@ -22,9 +16,6 @@ h3 {
 	font-style: italic; 
 }
 
-
-=======
->>>>>>> 1fe855bf351cf3c57e3d1b00abc46ac267601968
 ul {
 	text-align: center;
 	list-style-type: none;
