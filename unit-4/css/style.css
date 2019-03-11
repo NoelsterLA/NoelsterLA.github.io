@@ -6,10 +6,11 @@ body {
 	background: url(../images/mary-poppins-blog-1.jpg);
   	background-size: cover;
   	color: #fff;
-  	font-family: Helvetica;
+  	font-family: Merriweather;
 }
 
-h1, h3 {
+h1 {
+	font-family: "Kaushan Script"
 	font-weight: normal; 
 }
 
