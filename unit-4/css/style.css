@@ -1,15 +1,15 @@
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Merriweather" rel="stylesheet">
+
 body {
-  	background: url(../images/mary-poppins-blog-1.jpg);
-  	background-size: cover;
   	text-align: center;
-  	margin-top: 200px;
+  	margin-top: 200px; 
+	background: url(../images/mary-poppins-blog-1.jpg);
+  	background-size: cover;
   	color: #fff;
   	font-family: Helvetica;
 }
 
 h1, h3 {
-	font-family: "Kaushan Script"
 	font-weight: normal; 
 }
 
